@@ -1,0 +1,31 @@
+{
+    "items":[
+
+{
+    "id":1,
+    "score":45,
+     "name":"shimon"
+},{
+    "id":2,
+    "score":25,
+     "name":"moshe"
+},{
+    "id":3,
+    "score":67,
+     "name":"jony"
+},{
+    "id":4,
+    "score":21,
+     "name":"raz"
+},{
+    "id":5,
+    "score":89,
+     "name":"neriya"
+},{
+    "id":6,
+    "score":37,
+     "name":"gal"
+}
+
+    ]
+}
